@@ -1,0 +1,7 @@
+mobile Brands
+    Apple
+    Samsvung
+    Nokia
+    Vivo
+    Sony
+    Blackberry
